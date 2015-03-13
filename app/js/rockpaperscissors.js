@@ -92,7 +92,7 @@ function playToFive() {
         }
         console.log("The score is currently " + playerWins + " to " + computerWins + ".");
         round ++;
-        //return [playerWins, computerWins];
+
     }
     if (playerWins === 5) {
         champion = 'player';
